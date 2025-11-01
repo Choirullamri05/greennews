@@ -2,6 +2,7 @@
 
 Proyek Ini di buat untuk tugas Pemrograman Web Layout Mockup
 
+link web https://greennews.infinityfree.me
 ## 🌟 Fitur Utama
 
 * **Tampilan Beranda:** Menampilkan ringkasan artikel terbaru dengan tata letak visual.
